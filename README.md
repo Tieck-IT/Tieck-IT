@@ -1,3 +1,8 @@
+### :bulb:I'm interested in
+  - Computer Vision
+  - GAN
+
+
 ###  :muscle:Skills
 
 <p align ="center">
@@ -5,15 +10,14 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
 
-### :seedling: Studying
+### :seedling:Studying
 
 <p align ="center">
 <img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-keras-%23D00000?logo=Keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-tensorflow-%23FF6F00?logo=Tensorflow&logoColor=white" />
  
-  
-  
+
 ###  :hammer:Tools
 
 <p align ="center">
@@ -21,7 +25,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
 
-###  :golf:Competition
+### :golf:Competition
   
 ![tieckit](https://road-to-kaggle-grandmaster.vercel.app/api/simple/tieckit)  
 ![Tieck-IT's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tieck-IT&show_icons=true&theme=radical)
@@ -29,6 +33,7 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nib72)](https://solved.ac/nib72/)
 
+ 
 ###  :mailbox: Contact
   
 <p align ="center">
