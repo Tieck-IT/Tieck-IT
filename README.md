@@ -36,21 +36,20 @@
 ### :golf:Competition
 
 <p align ="center">
-  
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tieckit" />
-
 </p>
 
 <p align ="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=Tieck-IT&show_icons=true&theme=radical" />
-
 </p>
 
 <p align ="center">
-  
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nib72" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact
+" />
+</p>
 
+<p align ="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nib72" />
 </p>
 
  
