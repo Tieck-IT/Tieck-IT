@@ -44,7 +44,7 @@
 </p>
 
 <p align ="center">
-      <img alt="kuro11pow2's GitHub language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&langs_count=5" style="text-align: center;">
+      <img alt="tieckit's GitHub language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&langs_count=5" style="text-align: center;">
 </p>
 
 <p align ="center">
