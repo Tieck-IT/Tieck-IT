@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there!&fontSize=70&animation=fadeIn)
 
+### 🔥 I'm playing now in ...
+- 가짜연구소 4기 : Keeping up with GANs / 22.03.17 ~ now
+
+#### My playground was ...
+- Tacademy : Python 기반 AI 활용 데이터 분석가 양성 과정 모집  / 21.10.25 ~ 22.4.28
 
 
 ### :bulb:I'm interested in
@@ -43,7 +48,7 @@
 </p>
 
 <p align ="center">
-      <img alt="tieckit's GitHub language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&langs_count=5" style="text-align: center;">
+      <img alt="tieckit's GitHub language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&langs_count=5&hide=jupyter%20notebook" style="text-align: center;">
 </p>
 
 <p align ="center">
