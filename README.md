@@ -1,10 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there!&fontSize=70&animation=fadeIn)
 
-### 🔥 I'm playing now in ...
-- 가짜연구소 4기 : Keeping up with GANs / 22.03.17 ~ now
+### 🔥 Activities
 
-#### My playground was ...
-- Tacademy : Python 기반 AI 활용 데이터 분석가 양성 과정 모집  / 21.10.25 ~ 22.4.28
+|   Type    |   Date | Title    | Contents | Host |
+|   :---    |   :--- | :------------------------------------------   | :--- |:--- |
+|Study| 2022.03.17 ~ now | Keeping up with GANs| - | 가짜연구소 4기|
+|Education| 21.10.25 ~ 22.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 모집 | - | T-academy|
+<br>
+
+## 👀 Etc.
+#### 📩 [Email](mailto:tieck-it@gmail.com) &nbsp;&nbsp; 💾 [TIL] &nbsp;&nbsp; 🧾 [CV]
+<!-- https://github.com/iloveslowfood -->
+<br>
 
 
 ### :bulb:I'm interested in
