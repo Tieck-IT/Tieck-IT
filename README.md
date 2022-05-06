@@ -4,8 +4,8 @@
 
 |   Type    |   Date | Title    | Contents | Host |
 |   :---    |   :--- | :------------------------------------------   | :--- |:--- |
-|Study| 2022.03.17 ~ now | Keeping up with GANs| - | 가짜연구소(4기)|
-|Education| 21.10.25 ~ 22.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 모집 | - | 메디치이앤에스|
+|Study| 2022.03.17 ~ 2022.04.28 | Keeping up with GANs|  [GAN study repo](https://github.com/Tieck-IT/GAN_paper_study) | 가짜연구소(4기)|
+|Education| 2021.10.25 ~ 2022.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 모집 |  [LouisVuitton bag Classification project](www.naver.com) _w. EndAndKorea_  | 메디치이앤에스|
 <br>
 
 ## 👀 Etc.
