@@ -4,12 +4,14 @@
 
 |   Type    |   Date | Title    | Contents | Host |
 |   :---    |   :--- | :------------------------------------------   | :--- |:--- |
+|Intern| 2022.04.01 ~ now | EndAnd Modeling team|  [LouisVuitton bag classification] | [EndAnd](https://endand.com/)|
 |Study| 2022.03.17 ~ now | Keeping up with GANs|  [GAN study repo](https://github.com/Tieck-IT/GAN_paper_study) | 가짜연구소(4기)|
-|Education| 2021.10.25 ~ 2022.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 모집 |  [LouisVuitton bag Classification project](www.naver.com) _w. EndAndKorea_  | 메디치이앤에스|
+|Education| 2021.10.25 ~ 2022.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 모집 | [LouisVuitton bag Classification project](https://github.com/Tieck-IT/LV_bag_classification) _w. EndAndKorea_  | 메디치이앤에스|
+
 <br>
 
 ## 👀 Etc.
-#### 📩 [Email](mailto:tieck-it@gmail.com) &nbsp;&nbsp; 💾 [TIL] &nbsp;&nbsp; 🧾 [CV]
+#### 📩 [Email](mailto:tieck-it@gmail.com) 
 <!-- https://github.com/iloveslowfood -->
 <br>
 
