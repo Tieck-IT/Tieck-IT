@@ -4,7 +4,8 @@
 
 |   Type    |   Date | Title    | Contents | Host |
 |   :---    |   :--- | :------------------------------------------   | :--- |:--- |
-|Intern| 2022.04.01 ~ now | EndAnd Modeling team|  Luxury bag classification | [EndAnd](https://endand.com/)|
+|Work at| 2022.07.16 ~ now | EndAnd Modeling team|  Luxury bag classification for service | [EndAnd](https://endand.com/)|
+|Intern| 2022.04.01 ~ 2022.07.16 | EndAnd Modeling team|  Luxury bag classification | [EndAnd](https://endand.com/)|
 |Study| 2022.03.17 ~ now | Keeping up with GANs|  [GAN study repo](https://github.com/Tieck-IT/GAN_paper_study) | 가짜연구소(4기)|
 |Education| 2021.10.25 ~ 2022.4.28 | Python 기반 AI 활용 데이터 분석가 양성 과정 | [LouisVuitton bag Classification project](https://github.com/Tieck-IT/LV_bag_classification) _w. EndAndKorea_  | 메디치이앤에스|
 |Competition| 2021.03.08 ~ 2021.8.31 | 교내 캡스톤 디자인 공모전(우수상) | [MyStyling4Blind](https://github.com/Tieck-IT/project/blob/master/ClothStyling4Blind/Team_SVM(%EB%B0%9C%ED%91%9C%EC%9A%A9).pdf) | 숭실대학교|
