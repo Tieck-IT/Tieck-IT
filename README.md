@@ -21,31 +21,34 @@
 ### :bulb:I'm interested in
   - Computer Vision
   - GAN
+  - Image Classification
 
 
 ###  :muscle:Skills
 
 <p align ="center">
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  
 </p>
 
 ### :seedling:Studying
 
 <p align ="center">
   
-<img src="https://img.shields.io/badge/-PyTorch-%23EE4C2C?logo=PyTorch&logoColor=white" />
-<img src="https://img.shields.io/badge/-keras-%23D00000?logo=Keras&logoColor=white" />
-<img src="https://img.shields.io/badge/-tensorflow-%23FF6F00?logo=Tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+<img src="https://img.shields.io/badge/-tensorflow-%23FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white" />
   </p>
  
 
 ###  :hammer:Tools
 
 <p align ="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoGitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoGitHub&logoColor=white" />
   </p>
 
 ### :golf:Competition
