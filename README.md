@@ -51,23 +51,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoGitHub&logoColor=white" />
   </p>
 
-### :golf:Competition
+### :golf:Language
 
-<p align ="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/tieckit" />
-</p>
-
-<p align ="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tieck-IT&show_icons=true&theme=radical" />
-</p>
 
 <p align ="center">
       <img alt="tieckit's GitHub language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tieck-IT&langs_count=5&hide=jupyter%20notebook" style="text-align: center;">
 </p>
 
-<p align ="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nib72" />
-</p>
+
 
  
 ###  :mailbox: Contact
