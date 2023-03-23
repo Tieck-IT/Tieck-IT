@@ -1,5 +1,5 @@
 
-### 🔥 Deep Learning Engineer
+### 🔥 Deep Learning Developer
 - Computer Vision
 - Image Classification
 - Image Retrieval
